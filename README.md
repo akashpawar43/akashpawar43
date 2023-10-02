@@ -1,5 +1,7 @@
 ### <div align="center">I'm Akash, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022🚀</div>  
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawar45&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawar45" /> </p>
+
 
 - 🔭 I’m currently working on [Project](https://github.com/akashpawar45?tab=repositories)  
   
