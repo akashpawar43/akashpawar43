@@ -1,4 +1,5 @@
-### <div align="center">I'm Akash, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022🚀</div>  
+<h1 align="center">Hi 👋, I'm Akash Pawar</h1>
+<h3 align="center">A passionate Full-stack developer from India</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawar45&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawar45" /> </p>
 
