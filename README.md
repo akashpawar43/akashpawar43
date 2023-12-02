@@ -3,6 +3,8 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawar43&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawar43" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashpawar43" alt="akashpawar43" /></a> </p>
+
 
 - 🔭 I’m currently working on [Project](https://github.com/akashpawar43?tab=repositories)  
   
@@ -72,14 +74,11 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/akashpawar43" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mr.akki_1604" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akashpawar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashpawar23" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.akki_1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.akki_1604" height="30" width="40" /></a>
+</p>
   
 
 <br/>  
@@ -88,6 +87,5 @@
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawar43&show_icons=true&locale=en&layout=compact" alt="akashpawar43" /></p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akashpawar43&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashpawar43&show_icons=true&locale=en" alt="akashpawar43" /></p>
 
-<br/>  
