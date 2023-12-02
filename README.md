@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Pawar</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawar45&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawar45" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawar43&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawar43" /> </p>
 
 
-- 🔭 I’m currently working on [Project](https://github.com/akashpawar45?tab=repositories)  
+- 🔭 I’m currently working on [Project](https://github.com/akashpawar43?tab=repositories)  
   
 
 - 🌱 I’m currently learning React and Dsa  
@@ -73,7 +73,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/akashpawar45" target="_blank">
+<a href="https://github.com/akashpawar43" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/mr.akki_1604" target="_blank">
@@ -86,8 +86,8 @@
 
 
 ## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawar45&show_icons=true&locale=en&layout=compact" alt="akashpawar45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawar43&show_icons=true&locale=en&layout=compact" alt="akashpawar43" /></p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akashpawar45&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akashpawar43&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
