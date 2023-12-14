@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Project](https://github.com/akashpawar43?tab=repositories)  
   
 
-- 🌱 I’m currently learning React and Dsa  
+- 🌱 I’m currently learning React and Dsa   
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
