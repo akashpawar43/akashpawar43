@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashpawar43&theme=onedark" alt="akashpawar43" /></a> </p>
 
 
-- 🔭 I’m currently working on [Project](https://github.com/akashpawar43?tab=repositories)  
+- 🔭 I’m currently working on [Project](https://github.com/akashpawar43/Notes-App)  
   
 
 - 🌱 I’m currently learning React.Js,Next.Js and Dsa   
