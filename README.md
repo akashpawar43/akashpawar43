@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies
 
 
-- 🔭 [Portfolio website](https://akashpawardev.netlify.app/)
+
   
 
 <br/>  
