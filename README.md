@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashpawar43&theme=onedark" alt="akashpawar43" /></a> </p>
 
 
-- 🔭 I’m currently working on [Project](https://github.com/akashpawar43/Notes-App)  
+- 🔭 I’m currently working on [Project](https://github.com/akashpawar43/Paytm)  
   
 
 - 🌱 I’m currently learning React.Js,Next.Js and Dsa   
@@ -15,6 +15,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies
 
 
+- 🔭 [Portfolio website](https://akashpawardev.netlify.app/)
 
   
 
